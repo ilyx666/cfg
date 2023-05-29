@@ -1,3 +1,10 @@
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<br/>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/ilyx666/cfg/main/giphy.gif" align="center" height="325" />
 </div>  
