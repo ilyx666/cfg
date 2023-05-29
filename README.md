@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/ilyx666/cfg/main/giphy.gif" align="center" height="325" />
 </div>  
   
 
