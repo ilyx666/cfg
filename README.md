@@ -30,13 +30,14 @@
 
 <div>
 <h1>
-💩Languages and Tools:
+ 💀Languages and Tools:
 </h1>
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg"title="python" alt="python" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg"title="pandas" alt="pandas" width="70" height="70"/>
 <img src="https://i.postimg.cc/bJPqTBLS/aiogram-transformed.png"title="aiogram" alt="aiogram" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg"title="flask" alt="flask" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original.svg"title="jupyter" alt="jupyter" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlalchemy/sqlalchemy-original.svg"title="jupyter" alt="jupyter" width="70" height="70"/>
 
 </div>
 
