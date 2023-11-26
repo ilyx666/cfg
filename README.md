@@ -40,9 +40,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlalchemy/sqlalchemy-original.svg"title="jupyter" alt="jupyter" width="70" height="70"/>
 
 </div>
+<br>
 
-
-
+![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyx666&show_icons=true&theme=radical)
 
 
 
