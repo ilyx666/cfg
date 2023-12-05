@@ -45,6 +45,18 @@
 ![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyx666&show_icons=true&theme=radical)
 
 
+<div>
+<h1>
+projects: 
+</h1>
+  <a href="https://github.com/ilyx666/REVIEW">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilyx666&repo=REVIEW&theme=dark">
+  </a>
+  <a href="https://github.com/sslinNn/WATB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sslinNn&repo=WATB&theme=dark">
+  </a>
+</div>
+
 
 
 <div align='center'>
